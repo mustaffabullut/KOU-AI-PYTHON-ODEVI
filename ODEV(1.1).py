@@ -4,8 +4,8 @@
 # In[ ]:
 
 
-baslangic = 'a'
-while baslangic == 'a':
+baslangic = 'E'
+while baslangic == 'E':
     numara = input("Numara giriniz ")
     if int(numara) %2 == 0 :
         print("Numara bir çift sayı")
